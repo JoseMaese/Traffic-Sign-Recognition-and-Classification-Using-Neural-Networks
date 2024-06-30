@@ -5,7 +5,7 @@
   </a>
 <h3 align="center">Traffic Sign Recognition and Classification Using Neural Networks</h3>
   <p align="center">
-    José Enrique Maese Álvarez
+    <a href="https://www.linkedin.com/in/jos%C3%A9-enrique-maese-%C3%A1lvarez-18a479201/">José Enrique Maese Álvarez</a>
     <br />
   </p>
 </div>
