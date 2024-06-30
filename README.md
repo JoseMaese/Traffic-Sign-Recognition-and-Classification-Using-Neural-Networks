@@ -73,11 +73,11 @@ This project focuses on the application of neural networks for the identificatio
 - **Performance Metrics:** Achieved high precision and recall rates across various classes (danger, mandatory, prohibitory and other).
 - 
 <div align="center">
-  <img src="Imagenes/map50.png" alt="mAP50" width="1264" height="664">
+  <img src="Imagenes/map50.png" alt="mAP50" width="1264" height="700">
 </div>
 
 <div align="center">
-  <img src="Imagenes/modelo004_matriz.png" alt="Matriz de confusion" width="1500" height="1125">
+  <img src="Imagenes/modelo004_matriz.png" alt="Matriz de confusion" width="1500" height="1300">
 </div>
 
 ### ResNet-50 Classification
