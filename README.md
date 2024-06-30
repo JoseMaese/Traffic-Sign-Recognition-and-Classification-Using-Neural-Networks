@@ -74,7 +74,7 @@ This project focuses on the application of neural networks for the identificatio
 ### YOLOv8 Detection
 - **Architecture:** Optimized for fast and accurate detection of traffic signs.
 - **Performance Metrics:** Achieved high precision and recall rates across various classes (danger, mandatory, prohibitory and other).
-- 
+  
 <div align="center">
   <img src="Imagenes/map50.png" alt="mAP50">
 </div>
@@ -93,7 +93,7 @@ This project focuses on the application of neural networks for the identificatio
 
 ### Real-world Testing
 - The system was tested with videos under different lighting conditions and resolutions, showing robust performance.
-- 
+  
 <div align="center">
   <img src="Imagenes/gif_02.gif" alt="YOLO detection 02">
 </div>
