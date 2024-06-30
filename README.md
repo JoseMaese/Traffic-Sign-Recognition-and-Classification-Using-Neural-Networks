@@ -77,7 +77,7 @@ This project focuses on the application of neural networks for the identificatio
 </div>
 
 <div align="center">
-  <img src="Imagenes/modelo004_matriz.png" alt="Matriz de confusion" width="1500" height="1300">
+  <img src="Imagenes/modelo004_matriz.png" alt="Matriz de confusion" width="1500" height="1125">
 </div>
 
 ### ResNet-50 Classification
