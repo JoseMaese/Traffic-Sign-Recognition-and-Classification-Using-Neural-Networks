@@ -15,7 +15,7 @@
 
 This project focuses on the application of neural networks for the identification and classification of traffic signs using computer vision techniques. The primary models used are YOLOv8 for detection and ResNet-50 for classification, aimed at improving road safety and advancing autonomous vehicle technologies.
 <div align="center">
-  <img src="Imagenes/gif_01.gif" alt="YOLO detection">
+  <img src="Imagenes/gif_02.gif" alt="YOLO detection 02">
 </div>
 
 ## Table of Contents
@@ -93,6 +93,10 @@ This project focuses on the application of neural networks for the identificatio
 
 ### Real-world Testing
 - The system was tested with videos under different lighting conditions and resolutions, showing robust performance.
+- 
+<div align="center">
+  <img src="Imagenes/gif_01.gif" alt="YOLO detection 01">
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
