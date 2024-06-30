@@ -41,6 +41,8 @@ This project focuses on the application of neural networks for the identificatio
 - Develop a model to classify cropped images of traffic signs into detailed categories.
 - Manage the necessary databases for training the neural models.
 - Integrate both processes into a comprehensive program capable of analyzing videos.
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Methodology
 
@@ -58,18 +60,38 @@ This project focuses on the application of neural networks for the identificatio
 3. **Model Integration:** Develop a program to run both models consecutively on video data.
 4. **Real-world Testing:** Evaluate the system using videos captured in real-world driving conditions.
 
+<div align="center">
+  <img src="imagenes/esquema proyecto.png" alt="esquema proyecto.png" width="960" height="540">
+</div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Results
 
 ### YOLOv8 Detection
 - **Architecture:** Optimized for fast and accurate detection of traffic signs.
-- **Performance Metrics:** Achieved high precision and recall rates across various classes (e.g., danger, mandatory, prohibitory).
+- **Performance Metrics:** Achieved high precision and recall rates across various classes (danger, mandatory, prohibitory and other).
+- 
+<div align="center">
+  <img src="imagenes/map50.png" alt="mAP50" width="1264" height="664">
+</div>
+
+<div align="center">
+  <img src="imagenes/modelo004_matriz.png" alt="Matriz de confusion" width="1500" height="1125">
+</div>
 
 ### ResNet-50 Classification
 - **Function:** Refines detection results by classifying traffic signs into specific subclasses.
 - **Performance:** Demonstrated high accuracy but identified areas for improvement in secondary classification.
 
+<div align="center">
+  <img src="imagenes/train_validation_resnet_75epocas.png" alt="tran and validation resNet-50" width="720" height="496">
+</div>
+
 ### Real-world Testing
 - The system was tested with videos under different lighting conditions and resolutions, showing robust performance.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Conclusions
 
@@ -77,9 +99,13 @@ This project focuses on the application of neural networks for the identificatio
 - Cloud computing platforms significantly optimized model training times.
 - The system's robustness in varying conditions suggests its applicability in real-world driving scenarios.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Future Improvements
 
 - **Database Enhancement:** Improve training and validation datasets for better model performance.
 - **Output Processing:** Further refine the processing of model outputs to enhance accuracy.
 - **Secondary Classification:** Explore more advanced models for secondary classification tasks.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
