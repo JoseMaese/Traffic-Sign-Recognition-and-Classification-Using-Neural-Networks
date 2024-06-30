@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/JoseMaese/Traffic-Sign-Recognition-and-Classification-Using-Neural-Networks">
-    <img src="images/logo.png" alt="Logo" width="170" height="100">
+    <img src="images/logo.png" alt="Logo US" width="301" height="157">
   </a>
 <h3 align="center">Traffic-Sign-Recognition-and-Classification-Using-Neural-Networks</h3>
   <p align="center">
@@ -61,7 +61,7 @@ This project focuses on the application of neural networks for the identificatio
 4. **Real-world Testing:** Evaluate the system using videos captured in real-world driving conditions.
 
 <div align="center">
-  <img src="Imagenes/esquema proyecto.png" alt="esquema proyecto.png" width="960" height="540">
+  <img src="Imagenes/esquema proyecto.png" alt="esquema proyecto.png">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -85,7 +85,7 @@ This project focuses on the application of neural networks for the identificatio
 - **Performance:** Demonstrated high accuracy but identified areas for improvement in secondary classification.
 
 <div align="center">
-  <img src="Imagenes/train_validation_resnet_75epocas.png" alt="tran and validation resNet-50" width="720" height="496">
+  <img src="Imagenes/train_validation_resnet_75epocas.png" alt="tran and validation resNet-50">
 </div>
 
 ### Real-world Testing
