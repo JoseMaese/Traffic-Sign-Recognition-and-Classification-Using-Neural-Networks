@@ -3,7 +3,7 @@
   <a href="https://github.com/JoseMaese/Traffic-Sign-Recognition-and-Classification-Using-Neural-Networks">
     <img src="Imagenes/logo.png" alt="Logo US" width="301" height="157">
   </a>
-<h3 align="center">Traffic-Sign-Recognition-and-Classification-Using-Neural-Networks</h3>
+<h3 align="center">Traffic Sign Recognition and Classification Using Neural Networks</h3>
   <p align="center">
     José Enrique Maese Álvarez
     <br />
